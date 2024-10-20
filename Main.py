@@ -15,7 +15,7 @@ import os
 
 st.set_page_config(layout='wide')
 
-image = Image.open(r"D:\2025\Portfolio Projects\CryptoCurrency Webpage\Resources\Main LOGO.jpg")
+image = Image.open(r"Main LOGO.jpg")
 st.image(image, width=500)
 
 st.title('Crypto Price App')
